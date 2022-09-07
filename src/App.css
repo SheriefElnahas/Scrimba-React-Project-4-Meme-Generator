@@ -7,4 +7,9 @@ body {
   max-width:550px;
   margin:0 auto;
   color:#fff;
+  background:#ddd;
+}
+
+.app {
+  background:#fff;
 }
