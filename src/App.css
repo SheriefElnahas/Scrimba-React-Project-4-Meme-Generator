@@ -13,3 +13,8 @@ body {
 .app {
   background:#fff;
 }
+
+img {
+  width:100%;
+  display:block;
+}
