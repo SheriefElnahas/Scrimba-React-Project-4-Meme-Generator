@@ -1,0 +1,17 @@
+.header {
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:1rem 1.5rem;
+
+}
+
+.header-heading {
+    margin:0;
+    letter-spacing: -3px;
+}
+
+.header-text {
+    font-weight: 500;
+}
